@@ -1,6 +1,17 @@
 ---
-title: Welcome to Quartz
+title: The Philosopher's Stone
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# 🪨 Welcome to The Philosopher's Stone
+
+A digital garden for knowledge, wisdom, and continuous transformation.
+
+## Explore
+
+- **[[Archive]]** - Preserved knowledge and completed thoughts
+- **[[Laboratory]]** - Active experiments and works in progress  
+- **[[Sanctuary]]** - Personal reflections and sacred insights
+
+---
+
+*"As above, so below. As within, so without."*
